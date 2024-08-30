@@ -1,6 +1,4 @@
-# JENGA TECH
-
-# Educational Teaching Style Recommendation App
+# JENGA TECH - Educational Teaching Style Recommendation App
 
 ## Project Overview
 
